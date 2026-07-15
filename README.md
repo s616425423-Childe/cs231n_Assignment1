@@ -1,0 +1,2 @@
+# Childe
+斯坦福大学李菲菲教授的cs231n课程assignment1
